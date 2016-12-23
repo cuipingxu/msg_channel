@@ -214,7 +214,7 @@ int main(int argc, char * argv[])
 	
 	while(true)
 	{
-		::sleep(5);
+		::sleep(3);
 	}
 	
 	return 0;
